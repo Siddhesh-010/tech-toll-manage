@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman';
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(con.jpg);
+    display: flex;
+    background-color: lavender;
+    margin-left: 500px;
+    width: 100%;
+    text-shadow:5px,3px,10px;
+}
+
+h1{
+    background-position: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 50px;
+    font-size: 50px;
+    color: rgb(133, 214, 93);
+    background-size: 100%;
+    margin: 10px;
+    border: 5px;
+    text-shadow:5px,3px,10px;
+    
+}
+
+p{
+    background-position: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(202, 231, 38);
+    box-shadow: 10px 10px 5px rgb(91, 219, 11) inset;
+}
+
